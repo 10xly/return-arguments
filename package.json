@@ -1,0 +1,28 @@
+{
+  "name": "return-arguments",
+  "version": "1.0.2",
+  "description": "Returns arguments",
+  "keywords": [
+    "slice",
+    "arguments",
+    "array.from"
+  ],
+  "homepage": "https://github.com/10xly/return-arguments#readme",
+  "bugs": {
+    "url": "https://github.com/10xly/return-arguments/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10xly/return-arguments.git"
+  },
+  "license": "MIT",
+  "author": "10x'ly Made",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "uncurried-intrinsics": "^1.0.3"
+  }
+}
